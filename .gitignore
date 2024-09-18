@@ -1,0 +1,89 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]pp_Data/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.obj
+*.Build.CppClean.log
+*.Build.CppOutput.log
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Include .NET user-specific files
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Entity Framework
+*.edmx.sql
+*.edmx.diagram
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+desktop.ini
+
+# Mac OS generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux generated files
+*~
+
+# JetBrains Rider settings
+.idea/
+.idea/*
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Uncomment if using .NET Core
+# .vscode/
